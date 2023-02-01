@@ -1,3 +1,3 @@
-The readme coming soon or never? probably never :)
+A junior mobile engineer with 10 years of programming experience and more than 10,000 programming hours 🎉
 
-Working on my new website now >_<
+More coming soon...
