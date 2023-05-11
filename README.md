@@ -11,7 +11,6 @@ Super Junior Developer with 10 years+ programming, 6 years+ app development and 
 - Rust programming with C, .NET, Python and Dart
 - Experimenting with Kotlin Multiplatform
 - Automated tasks with Python on Windows
-
 - Learning Golang very slowly
 - Simple stock analysis with Python
 - Beginner trader on US stocks
