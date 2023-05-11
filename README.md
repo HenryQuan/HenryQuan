@@ -1,4 +1,4 @@
-A very junior mobile engineer with more than 10 years of programming experience. Interested in mobile app development (both native and hybrid), reverse engineering iOS apps & games, having ramen, stock trading and many other random things using different technologies, but nothing WEB related.
+Super Junior Developer with 10 years+ programming, 6 years+ app development and 2.9 years+ working experience. Developed and maintained multiple Apps using both Native, React Native and Flutter. Also exposed to the low level world like Rust, C, ARM & C++ and the script world like JavaScript, Ruby & Python. 
 
 - C# WinForm (.NET)
 - Native iOS development (Swift 2)
@@ -9,11 +9,14 @@ A very junior mobile engineer with more than 10 years of programming experience.
 - C++ programming with Python (OpenCV)
 - Objective-C & Logos development
 - Rust programming with C, .NET, Python and Dart
-- Learning Golang very slowly
 - Experimenting with Kotlin Multiplatform
 - Automated tasks with Python on Windows
+
+- Learning Golang very slowly
 - Simple stock analysis with Python
+- Beginner trader on US stocks
+- Intro level prompt engineering
 - Basic automated trading on macOS
 - Easy stable diffusion fine tuning
 
-I have been experimenting all sorts of programming languages/frameworks/technologies to maximise their strength together.
+Overall, I welcome new technologies while still enjoying the traditional languages. 
