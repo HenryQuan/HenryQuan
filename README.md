@@ -1,4 +1,4 @@
-Super Junior Developer with 10 years+ programming, 6 years+ app development and 2.9 years+ working experience. Developed and maintained multiple Apps using both Native, React Native and Flutter. Also exposed to the low level world like Rust, C, ARM & C++ and the script world like JavaScript, Ruby & Python. 
+Super Junior Developer with 10 years+ programming, 6 years+ app development or 2.9 years+ working experience. Developed and maintained multiple Apps using both Native, React Native and Flutter. Also exposed to the low level world like Rust, C, ARM & C++ and the scripting world like JavaScript, Ruby & Python. 
 
 - C# WinForm (.NET)
 - Native iOS development (Swift 2)
