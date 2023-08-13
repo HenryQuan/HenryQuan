@@ -16,4 +16,4 @@ Experienced Junior Developer with over a decade of programming experience, inclu
 - Understanding in fine-tuning stable diffusion models
 - Experimenting with WebAssembly for exporting native code to web
 
-For any business inquiries, please contact me via [email].(mailto:development.henryquan@gmail.com)
+For any business inquiries, please contact me via [email](mailto:development.henryquan@gmail.com).
