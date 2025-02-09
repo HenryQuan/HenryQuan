@@ -6,7 +6,7 @@ Some other interesting projects:
 - Daily automation https://github.com/wowsinfo/automation
   - starting from 2022, everyday
 - Kotlin Multiplatform https://github.com/wowsinfo/wowsinfo-core
-  - Run Kotlin/JS with React Native
+  - Run Kotlin/JS with React Native and more https://github.com/HenryQuan/react-native-kmp-migration
 - Convert code into another language https://github.com/wowsinfo/conversion
 - Julia, Nim, Python & C https://github.com/HenryQuan/Julia-Playground
 - Haxe, JavaScript, JVM, Python and C# https://github.com/HenryQuan/HaxeExperiment
